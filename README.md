@@ -1,0 +1,1 @@
+This is to calculate how far along you should be in your midjourney usage to distribute your minutes evenly throughout the month.
